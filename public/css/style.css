@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'poppins', sans-serif;
+    color: #264653;
+}
+.formDiv{
+    text-align: center;
+    margin: 0% 37%;
+    margin-top: 5%;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 3%;
+    border-color: #264653;
+    background-color: #457B9D;
+    font-family: 'poppins', sans-serif;
+}
+.btn-outline-light{
+    margin-top: 10%;
+}
+.result{
+    text-align: center;
+    background-color: #1D3557;
+    margin: 0% 37%;
+    margin-top: 50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    color: #F1FAEE;
+    font-family: 'poppins', sans-serif;
+}
+.result h3{
+    font-weight: 200;
+}
